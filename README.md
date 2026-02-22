@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-Machine-Learning-Python-
+# Sentiment-Analysis-ML-
 
 ## Overview
 
