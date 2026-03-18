@@ -18,3 +18,4 @@ print(df.columns)
 #check rating
 print("\nRating Distribution: ")
 print(df['rating'].value_counts())
+
